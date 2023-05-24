@@ -1,4 +1,4 @@
-# yelp-dataset
+# Yelp Dataset Analysis
 This is an analysis that I performed on a real-world dataset from Yelp.
 
 The objective of this project was to gain a deeper understanding of the provided Yelp dataset and determine if there were any correlations within the data through analysis. I looked at data regarding users, businesses, and reviews to profile the data and identify any patterns.
